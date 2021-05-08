@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mimic</string>
+    <string name="mimi">mimic</string>
+    <string name="todo">TODO</string>
+    <string name="internet">Note: Internet Connection Required</string>
+    <string name="tod">TODO</string>
+    <string name="toimage">TODO</string>
+    <string name="t">TODO</string>
+    <string name="to">TODO</string>
+</resources>
